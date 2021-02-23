@@ -1,0 +1,55 @@
+<html>
+<head>
+</head>
+<body>
+<h1>
+Selamat datang di halaman Home
+</h1>
+<table>
+<tr>
+<td>
+No.
+</td>
+<td>
+Nama
+</td>
+<td>
+Email
+</td>
+<td>
+Jenis Kelamin
+</td>
+<td>
+Hobi
+</td>
+<td>
+Makanan Favorit
+</td>
+<td>
+Minumana Favorit
+Minuman Favorit
+</td>
+</tr>
+<tr>
+<td>
+1
+</td>
+<td>
+Audrey Valencia Wijaya
+</td>
+<td>
+audreyvalenciawijaya@gmail.com
+</td>
+<td>
+Perempuan
+</td>
+<td>
+Baca, denger lagu
+</td>
+<td>
+Coklat
+</td>
+<td>
+Kopi
+</td>
+</tr>
